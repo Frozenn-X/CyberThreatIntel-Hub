@@ -1,5 +1,4 @@
-# LogAnalyzer Pro++ 🚀  Analyse de logs haute performance / High-performance log analysis
-
+# CyberThreatIntel-Hub++ 🚀  A regroupement of resources for CTI / ETHICAL HACKING LEARNING
 ---
 
 ## 🇬🇧 [English](#en)
