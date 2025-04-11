@@ -1,3 +1,6 @@
+## 🇬🇧 [English](#en)
+## 🇫🇷 Français <a name="fr"></a>
+
 # Le Dark Web : Guide complet et éducatif
 
 ## Introduction
@@ -118,7 +121,8 @@ Comme toute technologie puissante, le Dark Web n'est ni intrinsèquement bon ni 
 - Études sociologiques sur les communautés du Dark Web
 - Cadres juridiques relatifs à l'anonymat en ligne dans différentes juridictions
 
-
+## 🇫🇷 Go to [French](#en)
+## 🇬🇧 English <a name="en"></a>
 
 # The Dark Web: Comprehensive Educational Guide
 
